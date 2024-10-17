@@ -1,2 +1,2 @@
-# MuravIn.github.io
+# MurIn.github.io
 It-academy project
