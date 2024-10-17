@@ -1,2 +1,2 @@
-# Vanchoys228.github.io
+# MuravIn.github.io
 It-academy project
